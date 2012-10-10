@@ -1,0 +1,21 @@
+{
+    "name": "pub",
+    "root": "#",
+    "description": "",
+    "homepage": "",
+    "author": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": {
+        "url": ""
+    },
+    "license": "",
+    "dependencies": {
+    },
+    "tests": ["pub"],
+    "output": {
+        "pub.js": "*"
+    }
+}
